@@ -1,4 +1,4 @@
-![my header](./imgs/header.png)
+![header](https://user-images.githubusercontent.com/19814544/88117399-639ab080-cb91-11ea-9b00-5b41308400db.png)
 
 ## Hi, glad to see you here.
 
