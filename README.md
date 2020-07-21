@@ -1,4 +1,4 @@
-![my header](header.png)
+![my header](./header.png)
 
 ## Hi, glad to see you here.
 
