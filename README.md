@@ -17,4 +17,5 @@ you can follow me on twitter ([@theguspassos](https://twitter.com/theguspassos))
 ## Credits
 
 My readme profile header was made by [@xkobita](https://www.instagram.com/xkobita/)
+
 and my profile pic with my pets was made by [@kumamaskie](https://www.instagram.com/kumamaskie/)
