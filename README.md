@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, glad to see you here.
+
+I'm a developer based in Brazil currently working for Lambda3.
 
 <!--
 **theGusPassos/theGusPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
