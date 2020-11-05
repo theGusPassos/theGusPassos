@@ -8,7 +8,7 @@ I'm a developer based in Brazil currently working for [Lambda3](https://www.lamb
 - [I also have a blog](https://theguspassos.github.io/blog)
 - [and made some games](https://theguspassos.itch.io)
 
-Besides the tech stuff, designing games makes my heart warm, so that's where most of my free time is spent on. Sometimes I also post non tech stories in [flashing line blog](https://flashingline.blogspot.com/). I'm also learning how to play the piano and how to draw properly, so maybe I'll add new links here in the future 🧐.
+Besides the tech stuff, designing games makes my heart warm, so that's where most of my free time is spent on. I'm also learning how to play the piano and how to draw properly, so maybe I'll add new links here in the future 🧐.
 
 My non productive hours are spent watching horror movies and anime, playing online with friends and listening to music with questionable quality.
 
