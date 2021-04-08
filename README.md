@@ -1,6 +1,6 @@
 ## Hi, glad to see you here.
 
-I'm a developer based in Brazil currently working for [Lambda3](https://www.lambda3.com.br/).
+I'm a developer based in Brazil currently working for [Nubank](https://nubank.com.br/).
 
 - [This is my portfolio](https://theguspassos.github.io)
 - [I also have a blog](https://theguspassos.github.io/blog)
