@@ -10,4 +10,4 @@ Besides the tech stuff, designing games makes my heart warm, so that's where mos
 
 My non productive hours are spent watching horror movies and anime, playing online with friends and listening to music with questionable quality.
 
-you can follow me on twitter ([@theguspassos](https://twitter.com/_guspassos)) if any of that is also of your interest, I'm always happy to interact with strangers online.
+you can follow me on twitter ([@_guspassos](https://twitter.com/_guspassos)) if any of that is also of your interest, I'm always happy to interact with strangers online.
