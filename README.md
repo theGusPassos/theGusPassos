@@ -1,6 +1,6 @@
 ## Hi, glad to see you here.
 
-I'm a developer based in Brazil currently working for [Nubank](https://nubank.com.br/).
+I'm a developer based in Brazil currently working for [Wizebank](https://www.wizebank.co/).
 
 - [This is my portfolio](https://theguspassos.github.io)
 - [I also have a blog](https://acadev.hashnode.dev/)
